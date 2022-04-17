@@ -11,7 +11,6 @@ const DoughnutChart = (): JSX.Element => {
 const Circle = styled.div`
     width: 300px;
     height: 300px;
-    margin: auto;
     background: conic-gradient(#3f8bc9 0% 60%, #f2f2f2 60% 100%);
     border-radius: 50%;
     position: relative;
